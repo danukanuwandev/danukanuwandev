@@ -1,11 +1,13 @@
 ---
 # 👨‍💻 About Me:
-### Turning ideas into code 💻
+ 
+🚀 Learning and progressing toward becoming a Software Developer
 
-Developer at NetchX Hosting and passionate about learning software development.  
-I enjoy building systems, exploring new technologies, and improving my coding skills every day.
 
-⚡ Code • Learn • Build • Improve
+Currently working at ![NetchX Hosting](https://netchx.net/) while continuing to learn and develop my skills in software development.
+Interested in backend systems, cloud technologies, and building scalable applications.
+
+#Code #Learn #Build #Improve
 
 
 
