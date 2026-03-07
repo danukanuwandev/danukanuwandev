@@ -1,3 +1,15 @@
+# 👨‍💻 About Me:
+---
+Turning ideas into code 💻
+
+Developer at NetchX Hosting and passionate about learning software development.  
+I enjoy building systems, exploring new technologies, and improving my coding skills every day.
+
+⚡ Code • Learn • Build • Improve
+
+
+
+
 # 💻 Tech Stack:
 
 ### 🖥️ Frontend Development:
