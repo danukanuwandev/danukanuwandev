@@ -1,8 +1,3 @@
-
-
-## 🌐 Socials:
-
-
 # 💻 Tech Stack:
 
 ### 🖥️ Frontend Development:
