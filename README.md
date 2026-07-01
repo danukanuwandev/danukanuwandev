@@ -79,8 +79,6 @@ Design / Tools & Other Skills
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danukanuwandev&style=for-the-badge&color=blue" alt="Profile views"/>
-</p>
+
 <p align="center"><i>⭐ From <a href="https://github.com/danukanuwandev">danukanuwandev</a> — Code. Learn. Build. Improve.</i></p>
 
