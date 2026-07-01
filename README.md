@@ -14,12 +14,12 @@
 🧑‍💻 About Me
 
 
-🚀 Learning and progressing toward becoming a Software Developer
-💼 Currently working at NetchX Hosting, building and maintaining backend systems
-🌱 Interested in backend systems, cloud technologies, and building scalable applications
-🔗 Portfolio: danukanuwandev.github.io/profile
-📫 Reach me via the contact links below
-⚡ #Code #Learn #Build #Improve
+<p🚀 Learning and progressing toward becoming a Software Developer</p>
+<p💼 Currently working at NetchX Hosting, building and maintaining backend systems</p>
+<p🌱 Interested in backend systems, cloud technologies, and building scalable applications</p>
+<p🔗 Portfolio: danukanuwandev.github.io/profile</p>
+<p📫 Reach me via the contact links below</p>
+<p⚡ #Code #Learn #Build #Improve</p>
 
 
 
