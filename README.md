@@ -12,9 +12,7 @@
 </p>
 
  👨‍💻 About Me:
-
-🚀 Learning and progressing toward becoming a Software Developer
-
+ 
 Currently working at [**NetchX Hosting**](https://netchx.net/) while continuing to learn and develop my skills in software development.
 Interested in backend systems, cloud technologies, and building scalable applications.
 
