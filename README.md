@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Danuka" title="👋 Hi there! I'm Danuka"/>
-<div align="justify">
+
 ---
 # 👨‍💻 About Me:
  
