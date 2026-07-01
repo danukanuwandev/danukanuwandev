@@ -67,4 +67,4 @@ Design / Tools & Other Skills
 </p>
 
 <p align="center"><i>⭐ From <a href="https://github.com/danukanuwandev">danukanuwandev</a> — Code. Learn. Build. Improve.</i></p>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+
