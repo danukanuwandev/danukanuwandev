@@ -11,15 +11,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+and+progressing+toward+becoming+a+Software+Developer;Backend+Systems+%7C+Cloud+%7C+Scalable+Apps;%23Code+%23Learn+%23Build+%23Improve" alt="Typing SVG"/>
 </p>
 
-🧑‍💻 About Me
+# 👨‍💻 About Me:
 
+🚀 Learning and progressing toward becoming a Software Developer
 
-🚀 Learning and progressing toward becoming a Software Developer</p>
-💼 Currently working at NetchX Hosting, building and maintaining backend systems</p>
-🌱 Interested in backend systems, cloud technologies, and building scalable applications</p>
-🔗 Portfolio: danukanuwandev.github.io/profile</p>
-📫 Reach me via the contact links below</p>
-⚡ #Code #Learn #Build #Improve</p>
+Currently working at NetchX Hosting while continuing to learn and develop my skills in software development.
+Interested in backend systems, cloud technologies, and building scalable applications.
 
 
 
