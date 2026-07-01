@@ -8,8 +8,9 @@
   <img src="https://img.shields.io/badge/Working%20at-NetchX%20Hosting-black?style=for-the-badge" alt="Working at NetchX Hosting"/>
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Danuka+Nuwan+a+👋%23Code+%23Learn+%23Build+%23Improve" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+and+progressing+toward+becoming+a+Software+Developer;%23Code+%23Learn+%23Build+%23Improve" alt="Typing SVG"/>
 </p>
 
  👨‍💻 About Me:
