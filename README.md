@@ -2,8 +2,8 @@
 <h1 align="center">Hi there, I'm Danuka Nuwan 👋</h1>
 <h3 align="center">Full Stack Developer | Backend Systems • Cloud • Scalable Applications</h3>
 <p align="center">
-  <a href="https://danukanuwandev.github.io/profile/">
-    <img src="https://img.shields.io/badge/Portfolio-danukanuwandev.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://danukanuwandev.page.gd/">
+    <img src="https://img.shields.io/badge/Portfolio-danukanuwandev.page.gd-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <img src="https://img.shields.io/badge/Working%20at-NetchX%20Hosting-black?style=for-the-badge" alt="Working at NetchX Hosting"/>
 </p>
