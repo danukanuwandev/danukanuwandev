@@ -5,8 +5,8 @@
   <a href="https://danukanuwandev.page.gd/">
     <img src="https://img.shields.io/badge/Portfolio-danukanuwandev.page.gd-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://netchx.net/">
-  <img src="https://img.shields.io/badge/WORKING%20AT-NetchX%20Solutions-16A34A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Working at NetchX Solutions"/>
+  <a href="https://netchx.net/" target="_blank">
+  <img src="https://img.shields.io/badge/WORKING%20AT-NetchX%20Solutions-2563EB?style=for-the-badge&labelColor=1F2937" alt="Working at NetchX Solutions"/>
   </a>
 </p>
 
