@@ -15,7 +15,7 @@
 
  👨‍💻 About Me:
  
-Currently working at [**NetchX Hosting**](https://netchx.net/) while continuing to learn and develop my skills in software development.
+Currently working at [**NetchX Solutions**](https://netchx.net/) while continuing to learn and develop my skills in software development.
 Interested in backend systems, cloud technologies, and building scalable applications.
 
 
