@@ -5,7 +5,7 @@
   <a href="https://danukanuwandev.page.gd/">
     <img src="https://img.shields.io/badge/Portfolio-danukanuwandev.page.gd-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://img.shields.io/badge/Working%20at-NetchX%20Hosting-black?style=for-the-badge" alt="Working at NetchX Hosting"/>
+  <img src="https://img.shields.io/badge/Working%20at-NetchX%20Hosting-black?style=for-the-badge" alt="Working at NetchX Solutions"/>
 </p>
 
 
