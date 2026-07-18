@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Portfolio-danukanuwandev.page.gd-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://netchx.net/">
-    <img src="https://img.shields.io/badge/WORKING AT -NetchX Solutions-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="working"/>
+  <img src="https://img.shields.io/badge/WORKING%20AT-NetchX%20Solutions-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Working at NetchX Solutions"/>
   </a>
 </p>
 
